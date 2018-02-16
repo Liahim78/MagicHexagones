@@ -1,0 +1,13 @@
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsServer.deps.json
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsServer.runtimeconfig.json
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsServer.runtimeconfig.dev.json
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsServer.dll
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsServer.pdb
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsModel.dll
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\bin\Release\netcoreapp2.0\MagicHexagonsModel.pdb
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.csprojResolveAssemblyReference.cache
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.csproj.CoreCompileInputs.cache
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.AssemblyInfoInputs.cache
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.AssemblyInfo.cs
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.dll
+c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\obj\Release\netcoreapp2.0\MagicHexagonsServer.pdb
