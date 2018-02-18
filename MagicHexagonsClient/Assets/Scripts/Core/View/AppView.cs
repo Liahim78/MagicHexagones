@@ -23,7 +23,7 @@ namespace Assets.Scripts.Core.View
             //    User user = JsonConvert.DeserializeObject<User>(File.ReadAllText(_path));
             //}
             //else
-                OpenForm(FormType.LoginForm);
+                OpenForm(FormType.MainForm);
         }
 
         private AppView()

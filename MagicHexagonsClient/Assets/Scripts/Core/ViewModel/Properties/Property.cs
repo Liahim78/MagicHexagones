@@ -112,5 +112,9 @@ namespace Assets.Scripts.Core.ViewModel.Properties
                 OnChange();
         }
 
+        public override string ToString()
+        {
+            return _value.ToString();
+        }
     }
 }
