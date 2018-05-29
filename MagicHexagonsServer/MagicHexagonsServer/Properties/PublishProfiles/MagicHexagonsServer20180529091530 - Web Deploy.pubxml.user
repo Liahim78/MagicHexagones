@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuKUjaI7J0kOAQYwUNaBPDQAAAAACAAAAAAAQZgAAAAEAACAAAADDJywuDDQS4Bh9GCQrLwfg0VNyIC3FPwo5XL20zd/MHwAAAAAOgAAAAAIAACAAAACA3CuzVWgqVeyVbW+F8l52Gqgw+yPn2Adm2qwty4TmC4AAAACu/GX//LLiOEm/pCoCH+l5La942M4agRUihgpmuOrFBIusjzINyUCcb0d/oQA9QL9h/WGIksiUXKxyzE/GHgOOegMJTFjtajNMmvjRbtrhe5MzU6smSfsMRwJzoQ3XUja5IzJHYWOhKUjB7NLo6Vywl94L37G8qYXN096tYbNU9kAAAAAy9HtHSo4jbPFhxWqL461Ch6ry8pRacNtfP68/gI1HtuKkH8qPsSDnCeqe1W2coBvo0MvUABeCBFcDxSHE9wrb</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:magichexagons.database.windows.net,1433;Initial Catalog=MagicHexagonsDB;Persist Security Info=False;User ID=Misha;Password=*22#LiAhiM#05+98*;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -10,7 +10,6 @@ namespace MagicHexagonsModel.Models
         private const int LockTimeoutMs = 10000; // 10 seconds
 
         protected UserWrapper Wrapper;
-        protected UserGameData GameData;
 
         private static Stopwatch _swProcessing;
 
@@ -50,7 +49,6 @@ namespace MagicHexagonsModel.Models
 
             // User
             Wrapper = wrapper;
-            GameData = wrapper.User?.GameData;
 
         }
         public virtual void Dispose()
@@ -62,7 +60,6 @@ namespace MagicHexagonsModel.Models
 
             // User
             Wrapper = null;
-            GameData = null;
 
             if (_current != this) return;
             // Current
@@ -94,7 +91,7 @@ namespace MagicHexagonsModel.Models
         }
         public void UpdateOnFullUserRefresh(UserGameData userGameData)
         {
-            Wrapper.User.GameData.Update(this, userGameData);
+            
         }
     }
 }

@@ -1,12 +1,10 @@
-c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer
 --output-path=obj\Any CPU\Release\netcoreapp2.0\
 --application-name=MagicHexagonsServer
---content-root=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Home\About.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Home\Contact.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Home\Index.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\Error.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\_Layout.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\_ValidationScriptsPartial.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\_ViewImports.cshtml
---file=c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsServer\Views\_ViewStart.cshtml
+--content-root=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\Home\Index.cshtml
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\Error.cshtml
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\_Layout.cshtml
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\_ViewImports.cshtml
+--file=D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\Views\_ViewStart.cshtml

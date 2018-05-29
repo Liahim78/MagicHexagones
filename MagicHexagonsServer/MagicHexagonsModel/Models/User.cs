@@ -13,7 +13,7 @@ namespace MagicHexagonsModel.Models
         public string Password { get; set; }
         public string ConnectionId { get; set; }
         
-        public UserGameData GameData { get; set; }
+       // public UserGameData GameData { get; set; }
 
     }
 }

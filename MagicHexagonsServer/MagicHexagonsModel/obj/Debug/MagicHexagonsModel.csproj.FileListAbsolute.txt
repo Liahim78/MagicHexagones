@@ -11,3 +11,11 @@ D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServe
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsModel\obj\Debug\MagicHexagonsModel.pdb
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\Newtonsoft.Json.dll
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\Newtonsoft.Json.xml
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Debug\MagicHexagonsModel.csprojResolveAssemblyReference.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Debug\MagicHexagonsModel.csproj.CoreCompileInputs.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Debug\MagicHexagonsModel.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Debug\MagicHexagonsModel.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\MagicHexagonsModel.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\MagicHexagonsModel.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\Newtonsoft.Json.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Debug\Newtonsoft.Json.xml

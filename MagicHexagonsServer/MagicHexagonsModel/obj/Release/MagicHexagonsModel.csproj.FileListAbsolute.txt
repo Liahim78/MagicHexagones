@@ -4,3 +4,11 @@ c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsModel\obj\Release\M
 c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.csproj.CoreCompileInputs.cache
 c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.dll
 c:\users\misha\source\repos\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Release\MagicHexagonsModel.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Release\MagicHexagonsModel.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Release\Newtonsoft.Json.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\bin\Release\Newtonsoft.Json.xml
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.csprojResolveAssemblyReference.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.csproj.CoreCompileInputs.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsModel\obj\Release\MagicHexagonsModel.pdb

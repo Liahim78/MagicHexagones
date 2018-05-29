@@ -26,7 +26,8 @@
           "MagicHexagonsModel": "1.0.0",
           "Microsoft.AspNetCore.All": "2.0.5",
           "Microsoft.NETCore.App": "2.0.0",
-          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2"
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "2.0.2",
+          "Json": "0.0.0.0"
         },
         "runtime": {
           "MagicHexagonsServer.dll": {}
@@ -4062,6 +4063,14 @@
           "MagicHexagonsModel.dll": {}
         }
       },
+      "Json/0.0.0.0": {
+        "runtime": {
+          "Json.dll": {}
+        },
+        "compile": {
+          "Json.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.DotNetHostPolicy": "2.0.0",
@@ -6376,6 +6385,11 @@
     },
     "MagicHexagonsModel/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Json/0.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     },

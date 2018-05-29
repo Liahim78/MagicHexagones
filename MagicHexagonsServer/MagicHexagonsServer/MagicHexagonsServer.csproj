@@ -7,7 +7,6 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.1-beta3" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,6 +15,12 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MagicHexagonsModel\MagicHexagonsModel.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Json">
+      <HintPath>bin\Debug\netcoreapp2.0\Json.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

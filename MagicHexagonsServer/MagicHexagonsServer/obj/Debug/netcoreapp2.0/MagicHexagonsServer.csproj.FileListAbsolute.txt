@@ -24,3 +24,16 @@ D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServe
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.AssemblyInfo.cs
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.dll
 D:\Документы\Репозитории\MagicOfHexagones\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsServer.deps.json
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsServer.runtimeconfig.json
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsServer.runtimeconfig.dev.json
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsServer.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsServer.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsModel.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\bin\Debug\netcoreapp2.0\MagicHexagonsModel.pdb
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.csprojResolveAssemblyReference.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.csproj.CoreCompileInputs.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.AssemblyInfoInputs.cache
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.AssemblyInfo.cs
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.dll
+D:\Документы\Репозитории\MagicOfHexagone\MagicHexagonsServer\MagicHexagonsServer\obj\Debug\netcoreapp2.0\MagicHexagonsServer.pdb
