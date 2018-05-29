@@ -1,5 +1,9 @@
-﻿using Assets.Scripts.Core.View.Types;
+﻿using System.IO;
+using Assets.Scripts.Core.View.Types;
 using Assets.Scripts.Core.ViewModel;
+using Json;
+using Json.Buffers;
+using MagicHexagonsModel.Models;
 using UnityEngine;
 
 namespace Assets.Scripts.Core.View
@@ -12,17 +16,17 @@ namespace Assets.Scripts.Core.View
         private GameObject _openedForm;
         private GameObject _openedPopup;
 
-        //private readonly string _path = Path.Combine(Application.persistentDataPath, "autorization.json");
+        private readonly string _path = Path.Combine(Application.persistentDataPath, "autorization.json");
 
         // Use this for initialization
         private void Start()
         {
             AppViewModel.AppView = this;
-            //if (File.Exists(_path))
-           // {
-            //    User user = JsonConvert.DeserializeObject<User>(File.ReadAllText(_path));
-            //}
-            //else
+            if (File.Exists(_path))
+            {
+                var user = new TextBuffer(File.ReadAllText(_path)).FromJson<User>();
+            }
+            else
                 OpenForm(FormType.MainForm);
         }
 
