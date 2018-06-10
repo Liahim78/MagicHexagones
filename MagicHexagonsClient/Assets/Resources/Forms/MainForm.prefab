@@ -111,10 +111,10 @@ GameObject:
   - component: {fileID: 224890458994822756}
   - component: {fileID: 222832380419405890}
   - component: {fileID: 114533621956741374}
-  - component: {fileID: 114495557664389352}
   - component: {fileID: 223950338521925954}
   - component: {fileID: 114516663750347432}
   - component: {fileID: 114741904501091114}
+  - component: {fileID: 114052724127289778}
   m_Layer: 5
   m_Name: MainForm
   m_TagString: Untagged
@@ -139,6 +139,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+--- !u!114 &114052724127289778
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1740464377033484}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6252e945a168cea45b8c0034e38c6dfd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!114 &114098411334971816
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -324,17 +335,6 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
---- !u!114 &114495557664389352
-MonoBehaviour:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1740464377033484}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6252e945a168cea45b8c0034e38c6dfd, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &114516663750347432
 MonoBehaviour:
   m_ObjectHideFlags: 1

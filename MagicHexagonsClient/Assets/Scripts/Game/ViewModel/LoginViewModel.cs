@@ -12,7 +12,7 @@ namespace Assets.Scripts.Game.ViewModel
 
         public void Submit()
         {
-            Debug.Log("Login "+ Login +"| Password " + Password);
+            AppViewModel.AppView.OpenForm(FormType.UserRoomForm);
         }
 
         public void Back()

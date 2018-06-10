@@ -3,7 +3,7 @@ using Assets.Scripts.Game.ViewModel;
 
 namespace Assets.Scripts.Game.View
 {
-    public class MainForm: Form<MainViewModel>
+    public class MainForm : Form<MainViewModel>
     {
     }
 }

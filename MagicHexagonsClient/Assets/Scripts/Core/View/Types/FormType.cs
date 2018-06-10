@@ -4,6 +4,8 @@
     {
         MainForm,
         LoginForm,
-        SignUpForm
+        SignUpForm,
+        UserRoomForm,
+        RatingForm
     }
 }
