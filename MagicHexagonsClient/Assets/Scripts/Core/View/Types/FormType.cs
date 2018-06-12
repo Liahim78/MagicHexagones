@@ -6,6 +6,9 @@
         LoginForm,
         SignUpForm,
         UserRoomForm,
-        RatingForm
+        RatingForm,
+        GamesForm,
+        CreateGameForm,
+        StartGameForm,
     }
 }

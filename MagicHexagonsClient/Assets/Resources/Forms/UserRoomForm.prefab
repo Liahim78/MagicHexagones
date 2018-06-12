@@ -1208,7 +1208,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f52260ebc2ed7f4dbc227d3fcf2b4ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Path: Submit
+  Path: ToBattle
 --- !u!114 &114786557233836150
 MonoBehaviour:
   m_ObjectHideFlags: 1

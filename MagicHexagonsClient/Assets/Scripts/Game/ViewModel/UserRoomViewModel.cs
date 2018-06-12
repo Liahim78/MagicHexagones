@@ -9,6 +9,10 @@ namespace Assets.Scripts.Game.ViewModel
         {
             AppViewModel.AppView.OpenForm(FormType.RatingForm);
         }
-        
+
+        public void ToBattle()
+        {
+            AppViewModel.AppView.OpenForm(FormType.GamesForm);
+        }
     }
 }
